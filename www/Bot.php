@@ -39,7 +39,7 @@
 	<footer class="footer">
 		<div class="container">
 			<span class="text-muted">
-				Produced by Postoronka Valeria.	
+				Produced by Dovzhenko Denis.	
 		</span><!-- Футер сайту -->
 	</footer>
 </body>
