@@ -31,7 +31,7 @@
 		</div>
 	</div>
 	<br>
-	<footer class="footer"><div class="container"><span class="text-muted">Produced by Postoronka Valeria.</span><!-- Футер сайту -->
+	<footer class="footer"><div class="container"><span class="text-muted">Produced by Dovzhenko Denis.</span><!-- Футер сайту -->
       </div></footer>
 </body>
 </html>
